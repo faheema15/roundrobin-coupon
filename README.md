@@ -167,17 +167,6 @@ The application implements multiple layers of protection:
 
 ---
 
-## 🔒 Security Considerations
-
-- The application uses cookies to track sessions, which can be cleared by users  
-- IP address tracking may not be effective for users behind shared NATs or proxies  
-- Consider implementing additional security measures for production:  
-  - ⏳ Rate limiting  
-  - ✅ CAPTCHA for suspicious activity  
-  - 🔐 Database encryption for sensitive information
-
----
-
 ## 🧪 Testing
 
 You can test the application's abuse prevention mechanisms by:
