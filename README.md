@@ -163,8 +163,6 @@ The application implements multiple layers of protection:
    - Add `SESSION_SECRET` with a secure value 🔑
 6. Click **"Create Web Service"**
 
-✅ Live Demo: [https://roundrobin-coupon.onrender.com/](https://roundrobin-coupon.onrender.com/)
-
 ---
 
 ## 🧪 Testing
